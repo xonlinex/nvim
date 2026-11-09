@@ -330,13 +330,14 @@ return {
       require("cendre").setup({
         background = "hard", -- "hard" | "medium" | "soft"
         italic_virtual_text = false,
+        transparent = true,
       })
     end,
   },
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "cendre",
+      colorscheme = "ember-auto",
     },
   },
 }

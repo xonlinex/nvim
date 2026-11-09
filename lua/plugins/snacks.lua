@@ -28,5 +28,5 @@ return {
       ignored = true,
       hidden = true,
     },
-  },
+  }
 }
